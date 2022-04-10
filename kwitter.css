@@ -1,0 +1,30 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #fa01c4, #f837ce, #f692ff, #d393f8, #cfb2fd);
+}
+
+.header
+{
+	color: white;font-family: 'Lucida Sans';font-size: 80px;letter-spacing: 10px;margin-top: 80px;padding:10px;
+}
+
+.login_div
+{
+	background: rgba(185, 236, 243, 0.8);float: none;border-radius: 15px;padding: 20px;
+}
+
+.logo{
+  width: 110px;
+border-radius: 20px;
+}
+
+.add{
+background-color: lightpink;
+padding: 10px;
+}
